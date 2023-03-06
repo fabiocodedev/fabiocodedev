@@ -5,6 +5,8 @@
 
 < img src="https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png" >
 
+![This is an image](https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
