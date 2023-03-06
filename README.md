@@ -3,7 +3,7 @@
 <!--
 **fabiocodedev/fabiocodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="[URL source](https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png)" >
+< img src="https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png" >
 
 Here are some ideas to get you started:
 
