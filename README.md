@@ -3,9 +3,8 @@
 <!--
 **fabiocodedev/fabiocodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-< img src="https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png" >
 
-![This is an image](https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png)
+![Cover](https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png)
 
 Here are some ideas to get you started:
 
