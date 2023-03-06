@@ -3,7 +3,7 @@
 <!--
 **fabiocodedev/fabiocodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Cover](https://github.com/fabiocodedev/fabiocodedev/edit/main/README.md/master/test.jpg)
+![Cover](https://github.com/fabiocodedev/fabiocodedev/edit/main/README.md/master/test.png)
 
 Here are some ideas to get you started:
 
