@@ -4,7 +4,7 @@
 **fabiocodedev/fabiocodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Cover](https://github.com/fabiocodedev/fabiocodedev/edit/main/img/test.png)
+![Cover](https://github.com/fabiocodedev/fabiocodedev/blob/main/img/test.png)
 
 Here are some ideas to get you started:
 
